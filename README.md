@@ -62,6 +62,22 @@
   📧 Built with Scikit-learn, TF-IDF, NLTK & Logistic Regression.
 
 ---
+### 🏆 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maria-9876&theme=onedark&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maria-9876&show_icons=true&theme=radical" alt="maria-9876 stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-9876&layout=compact&theme=radical" />
+</p>
+
+---
+
 
 
 
