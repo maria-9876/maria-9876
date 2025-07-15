@@ -61,7 +61,8 @@
 - **Spam Detection ML Model**  
   📧 Built with Scikit-learn, TF-IDF, NLTK & Logistic Regression.
   
-  **Cervical cancer Diagnosis using gazelle optimization**
+- **Cervical cancer Diagnosis using gazelle optimization**
+- Classifies cancerous and non cancerous cells using selm classifier,GOA and MobileNetV3.
 
 ---
 ### 🏆 GitHub Stats:
