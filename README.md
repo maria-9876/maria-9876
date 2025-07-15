@@ -60,6 +60,8 @@
 
 - **Spam Detection ML Model**  
   📧 Built with Scikit-learn, TF-IDF, NLTK & Logistic Regression.
+  
+  **Cervical cancer Diagnosis using gazelle optimization**
 
 ---
 ### 🏆 GitHub Stats:
